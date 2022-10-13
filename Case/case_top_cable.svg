@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="44mm"
+   height="40.26458mm"
+   viewBox="0 0 44 40.26458"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   sodipodi:docname="case_top_cable.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.8"
+     inkscape:cx="59.107143"
+     inkscape:cy="61.428571"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1024"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:pagecheckerboard="0" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-256.73541)">
+    <rect
+       id="rect12"
+       width="43.73621"
+       height="40.00079"
+       x="0.1318958"
+       y="256.86731"
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.26379159" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="3.6933866"
+       y="269.95004"
+       id="text4528"><tspan
+         sodipodi:role="line"
+         id="tspan4526"
+         x="3.6933866"
+         y="269.95004"
+         style="font-size:3.52778px;stroke-width:0.264583">A</tspan></text>
+    <text
+       id="text4532"
+       y="287.95004"
+       x="3.6933866"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="font-size:3.52778px;stroke-width:0.264583"
+         y="287.95004"
+         x="3.6933866"
+         id="tspan4530"
+         sodipodi:role="line">B</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="39.466442"
+       y="278.95004"
+       id="text4536"><tspan
+         sodipodi:role="line"
+         id="tspan4534"
+         x="39.466442"
+         y="278.95004"
+         style="font-size:3.52778px;text-align:end;text-anchor:end;stroke-width:0.264583">CPC</tspan></text>
+    <text
+       id="text4540"
+       y="288"
+       x="39.640663"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="font-size:3.52778px;text-align:end;text-anchor:end;stroke-width:0.264583"
+         y="288"
+         x="39.640663"
+         id="tspan4538"
+         sodipodi:role="line">IN</tspan></text>
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.28209051"
+       id="rect4561"
+       width="6.7179098"
+       height="9.7179098"
+       x="27.141045"
+       y="257.14105" />
+    <text
+       id="text4565"
+       y="261.90332"
+       x="38.618092"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="font-size:3.52778px;text-align:center;text-anchor:middle;stroke-width:0.264583"
+         y="261.90332"
+         x="38.618092"
+         id="tspan4563"
+         sodipodi:role="line">5V</tspan></text>
+    <circle
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.26458332"
+       id="path4567"
+       cx="36.226021"
+       cy="263.952"
+       r="0.80319941" />
+    <path
+       id="circle4569"
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.26458332"
+       sodipodi:type="arc"
+       sodipodi:cx="38.790215"
+       sodipodi:cy="263.952"
+       sodipodi:rx="0.80319941"
+       sodipodi:ry="0.80319941"
+       sodipodi:start="0.52359878"
+       sodipodi:end="5.7595865"
+       sodipodi:open="true"
+       d="m 39.485806,264.3536 a 0.80319941,0.80319941 0 0 1 -0.903475,0.37423 0.80319941,0.80319941 0 0 1 -0.595316,-0.77583 0.80319941,0.80319941 0 0 1 0.595316,-0.77584 0.80319941,0.80319941 0 0 1 0.903475,0.37424" />
+    <circle
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.26458332"
+       id="circle4571"
+       cx="41.230556"
+       cy="263.952"
+       r="0.80319941" />
+    <circle
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.26499999;stroke-miterlimit:4;stroke-dasharray:none"
+       id="circle4573"
+       cx="38.790215"
+       cy="263.952"
+       r="0.33669469" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.21548235px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 39.120942,263.9284 h 1.316201"
+       id="path4577"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.21095985px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 38.020422,263.95202 H 37.029218"
+       id="path4579"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 35.75355,263.9284 h 0.944941"
+       id="path4581"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 41.703028,263.9284 h -0.94494"
+       id="path4583"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 41.230557,263.43231 v 0.94494"
+       id="path4585"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="38.70348"
+       y="266.53354"
+       id="text4589"><tspan
+         sodipodi:role="line"
+         id="tspan4587"
+         x="38.70348"
+         y="266.53354"
+         style="font-size:1.76389px;text-align:center;word-spacing:-0.407458px;text-anchor:middle;stroke-width:0.264583">CPC GND</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.11667px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+       x="-276.97159"
+       y="15.484323"
+       id="text2551"
+       transform="rotate(-90)"><tspan
+         sodipodi:role="line"
+         id="tspan2549"
+         style="font-size:2.11667px;text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="-276.97159"
+         y="15.484323">https://github.com/f1ac0/</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:2.11667px;text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="-276.97159"
+         y="18.130159"
+         id="tspan8109">Dual-USB-Controller-adapter-CPC</tspan></text>
+  </g>
+</svg>
