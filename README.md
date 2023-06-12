@@ -1,7 +1,7 @@
 # Dual USB Controller adapter CPC
 This project is a version of the Dual USB Controller adapter project dedicated to the Amstrad CPC.
 It is an interface board to connect two USB controllers on the DB9 joystick port of the Amstrad CPC.
-Supported USB devices : mouse, keyboard, xbox360 gamepad ; other HID controllers should also work but button placement is device dependant. Composite devices are not supported.
+Supported USB devices : mouse, keyboard, wired xbox360 and PS3 gamepad ; other HID controllers should also work but button placement is device dependant. Composite devices are not supported.
 
 Working so far :
 - two USB ports for two players games
@@ -10,7 +10,7 @@ Working so far :
 - Need external 5V 0.5A supply, WITH SAME GND AS THE CPC
 - USB HID devices like mouse, keyboard or gamepad
 - Mouse support with AMX compatibility
-- Wired XBOX 360 gamepad and HID gamepad support. 3 buttons (button B is both on B and X, button 3 is on Y).
+- Wired XBOX 360, PS3 and HID gamepad support. 3 buttons (button B is both on B and X, button 3 is on Y).
 - Autofire on right trigger
 - Auto-Left-Right on left trigger, for "sports" games :P
 - platform mode with jump mapped on a button
@@ -74,7 +74,7 @@ Joystick 1 : AQOP or AQRT + Space or left Alt + Enter or Y
 Joystick 2 : Keypad 7456 + 0 or 1 + Enter or '+'
 The layouts are exchanged when plugged in the USB B port.
 
-## XBOX360 gamepad
+## XBOX360 and PS3 gamepad
 Supports wired USB original and clones, and emulates a joystick, mouse, or dual pads depending on the active mode.
 
 The round button and leds are used as a mode selector : press the round button to change mode.
